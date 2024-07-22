@@ -22,18 +22,7 @@
 ### Автор
 [Aleksandra Vislova](www.linkedin.com/in/sasha-undefined-a51ba9297)
 
-### Этап 1: Загрузка данных и необходимых библиотек 
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-```
-```python
-#сохранение файла train_csv в переменную df
- df = pd.read_csv("train.csv")
- df.head()
-```
+
 
 
 
